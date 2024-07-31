@@ -2,9 +2,9 @@
 **Source code will be uploaded soon.**
 I'm currently working for bug fixing. Sorry to people who have been waiting for this repo. 
 
-# Publications
+# Publication
 - Jaekyung Im and Seokhyeong Kang,
-  "**SkyPlace : A New Mixed-size Placement Framework using Modularlity-based Clustering and SDP Relaxation**", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, June 27-31, 2024
+  "SkyPlace : A New Mixed-size Placement Framework using Modularlity-based Clustering and SDP Relaxation", ACM/IEEE Design Automation Conference (DAC), 2024.
 
 # Dependency
 - GCC
