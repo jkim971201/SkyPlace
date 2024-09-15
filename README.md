@@ -6,7 +6,7 @@ Though SkyPlace was originally coded to run bookshelf format benchmarks, <br/>
 I re-implemented the whole source code to support lef/def format as well. <br/>
 This made huge amount of bugs and still many of them are remaining (this is why open-sourcing has been delayed). <br/>
 Please do not expect this code will run safely. <br/>
-Especially, bookshelf flow is currently not available (you can run by read_bookshelf command **but the results are not valid**). <br/>
+Especially, **bookshelf flow is currently not available** (you can run by read_bookshelf command but the results are not valid). <br/>
 I will upload more reliable version as soon as possible. (09/15/24)
 
 # Dependency
