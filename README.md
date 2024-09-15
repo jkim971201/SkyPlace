@@ -1,6 +1,6 @@
 # SkyPlace - A VLSI global placer with GPU-acceleration
 **Please READ** <br/>
-Thanks for your attention in this repo!  <br/>
+Thanks for your attention on this repo!  <br/>
 I just uploaded alpha version for those who are interested in this project. <br/>
 Though SkyPlace was originally coded to run bookshelf format benchmarks, <br/>
 I re-implemented the whole source code to support lef/def format as well. <br/>
