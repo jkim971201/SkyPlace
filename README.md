@@ -1,13 +1,13 @@
 # SkyPlace - A VLSI global placer with GPU-acceleration
 **Please READ** <br/>
 Thanks for your attention in this repo!  <br/>
-I just uploaded alpha version for those who are interested in this project.
-Though SkyPlace was originally coded to run bookshelf format benchmarks,
-I re-implemented the whole source code to support lef/def format as well.
-This made huge amount of bugs and still many of them are remaining (this is why open-sourcing has been delayed).
-Please do not expect this code will run safely.
-Especially, bookshelf flow is currently not available (you can run by read_bookshelf command but the results are not valid).
-I will upload more reliable version as soon as possible.
+I just uploaded alpha version for those who are interested in this project. <br/>
+Though SkyPlace was originally coded to run bookshelf format benchmarks, <br/>
+I re-implemented the whole source code to support lef/def format as well. <br/>
+This made huge amount of bugs and still many of them are remaining (this is why open-sourcing has been delayed). <br/>
+Please do not expect this code will run safely. <br/>
+Especially, bookshelf flow is currently not available (you can run by read_bookshelf command but the results are not valid). <br/>
+I will upload more reliable version as soon as possible. 
 
 # Publication
 - Jaekyung Im and Seokhyeong Kang,
@@ -45,4 +45,4 @@ make -j
 ```
 
 # Acknowledgement
-Many thanks to [DREAMPlace](https://github.com/limbo018/DREAMPlace) which has inspired this project.
+Many thanks to [DREAMPlace](https://github.com/limbo018/DREAMPlace) which greatly inspired this project.
