@@ -6,11 +6,12 @@ set(CMAKE_C_COMPILER "g++")
 set(CMAKE_CXX_STANDARD 17)
 
 set(Louvain_HOME ${CMAKE_CURRENT_SOURCE_DIR})
-set(Louvain_SRC utils.cu
-	              community_aggregation.cu
-	              modularity_optimisation.cu
-								removeSparse.cu
-								gpulouvain.cu)
+set(Louvain_SRC 
+utils.cu
+community_aggregation.cu
+modularity_optimisation.cu
+removeSparse.cu
+gpulouvain.cu)
 
 set(Louvain_HEADERS gpulouvain.h)
 
@@ -32,7 +33,7 @@ find_package(Thrust)
 
 target_include_directories(${PROJECT_NAME}
                            PRIVATE
-													 ${CMAKE_CUDA_TOOLKIT_INCLUDE_DIRECTORIES})
+			   ${CMAKE_CUDA_TOOLKIT_INCLUDE_DIRECTORIES})
 
 # Link Library
 target_link_libraries(${PROJECT_NAME} 
