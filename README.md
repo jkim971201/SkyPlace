@@ -1,14 +1,14 @@
 # SkyPlace - A VLSI global placer with GPU-acceleration
 **Please READ** <br/>
 Thanks for your attention on this repo!  <br/>
-I just uploaded alpha version for those who are interested in this project. <br/>
+Alpha version is just uploaded for those who are interested in this project. <br/>
 Though SkyPlace was originally coded to run bookshelf format benchmarks, <br/>
-I re-implemented the whole source code to support lef/def format as well. <br/>
+The whole source code is re-implemented to support lef/def format as well. <br/>
 This made huge amount of bugs and still many of them are remaining (this is why open-sourcing has been delayed). <br/>
 Please do not expect this code will run safely. <br/>
 Especially, **bookshelf flow is currently not available.** <br/>
 (you can run by read_bookshelf command but the results are not valid) <br/>
-I will upload more reliable version as soon as possible. (09/15/24)
+We will upload more reliable version as soon as possible. (09/15/24)
 
 # Dependency
 - GCC
