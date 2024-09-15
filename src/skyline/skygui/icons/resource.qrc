@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file alias="zoom_in.png">./zoom_in.png</file>
+  <file alias="zoom_out.png">./zoom_out.png</file>
+  <file alias="zoom_fit.png">./zoom_fit.png</file>
+</qresource>
+</RCC>
